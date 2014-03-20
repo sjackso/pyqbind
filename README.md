@@ -37,6 +37,12 @@ compilation units.
 Usage
 -----
 
-See example/
+See example/main.cpp for basic usage.
+
+Known Issues
+------------
+
+* The included build files assume you're using OS X.
+* The example is not very interesting
 
 
