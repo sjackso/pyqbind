@@ -2,4 +2,5 @@ moc_pyqbind_detail.cpp
 *.o
 *.dylib
 Makefile
+example/example
 
