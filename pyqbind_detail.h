@@ -8,7 +8,7 @@
 
 #define log_error_stream( X ) do{ std::cerr << "ERROR: " <<  X << std::endl; } while(0);
 #define log_warn_stream( X ) do{ std::cerr << "WARNING: " << X << std::endl; } while(0);
-#define log_debug_stream( X ) do{ std::cerr << "DBGMSG: " << X << std::endl; } while(0);
+#define log_debug_stream( X ) do{ /*std::cerr << "DBGMSG: " << X << std::endl;*/ } while(0);
 
 namespace pyqbind_detail {
 
